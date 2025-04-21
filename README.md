@@ -1,16 +1,32 @@
-# PathoScan 🧪
+<div align="center">
+  <h1>
+    PathoScan 🧪
+  </h1>
+</div>
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-purple?logo=streamlit)](https://streamlit.io)
-[![OpenRouter Powered](https://img.shields.io/badge/Powered%20by-OpenRouter-blue?logo=openai)](https://openrouter.ai)
-[![Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/Cc8aVHSB5MA)
+<p align="center">
+  <a href="https://streamlit.io">
+    <img src="https://img.shields.io/badge/Streamlit-App-purple?logo=streamlit" alt="Streamlit App"/>
+  </a>
+  <a href="https://openrouter.ai">
+    <img src="https://img.shields.io/badge/Powered%20by-OpenRouter-blue?logo=openai" alt="OpenRouter Powered"/>
+  </a>
+  <a href="https://youtu.be/Cc8aVHSB5MA">
+    <img src="https://img.shields.io/badge/Watch-Demo-red?logo=youtube" alt="Demo"/>
+  </a>
+</p>
 
 ---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c92e643a-a28c-45a7-a721-f10f619c138f" alt="PathoScan Logo" style="width: 250px; max-width: 250px;">
+</div>
+
 
 ## 🌱 Why I Built This
 
 Last June, I got my blood test done. Like many people, I received a dense report full of medical jargon and numbers that didn’t mean much to me. I wanted to understand the abnormalities, see what values were connected, and learn what it meant for my body — but in simple language.
 
-That experience led me to create **PathoScan** — a tool to help *anyone* turn medical data into meaningful insights.
+That experience led me to create **PathoScan** — a tool to help *anyone* turn medical pathological data into simple to understand report.
 
 ---
 
